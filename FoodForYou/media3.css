@@ -1,0 +1,233 @@
+@media(max-width:1199px){
+	.bob1{
+		width: 800px;
+	}
+	.blockbob{
+		width: 940px;
+	}
+	.bob2{
+		width: 470px;
+	}
+	.image{
+		width: 410px;
+		height: 436pxpx;
+		background-position: 30% 40%;
+	}
+	.bob3{
+		width: 470px;
+	}
+	.image1{
+		width: 410px;
+		height: 436pxpx;
+		background-position: 30% 40%;
+	}
+	.image3{
+		width: 410px;
+		height: 436pxpx;
+		background-position: 30% 40%;
+	}
+	.image4{
+		width: 410px;
+		height: 436pxpx;
+		background-position: 30% 40%;
+	}
+}
+
+@media(max-width:990px){
+	.bob1{
+		width: 650px;
+	}
+	.bob1 h2{
+		font-size: 40px;
+	}
+	.blockbob{
+		width: 720px;
+	}
+	.bob2{
+		width: 360px;
+	}
+	.image{
+		width: 300px;
+		height: 319px;
+		background-position: 40% 50%;
+	}
+	.image1{
+		width: 300px;
+		height: 319px;
+		background-position: 40% 50%;
+	}
+	.block4{
+		background-position: 71.36% 50%;
+	}
+	.box4 h1{
+		margin: 21px 380px 0 50px;
+		font-size: 60px;
+	}
+	.image3{
+		width: 300px;
+		height: 319px;
+		background-position: 40% 50%;
+	}
+	.image4{
+		width: 300px;
+		height: 319px;
+		background-position: 40% 50%;
+	}
+}
+
+
+
+@media(max-width: 768px){
+	.bob{
+		width: 60%;
+	}
+	.menu a{
+		padding: 10px 10px;
+		font-size: 16px;
+	}
+	.bob1{
+		width: 550px;
+	}
+	.bob1 h2{
+		font-size: 35px;
+	}
+	.menu-item{
+		font-size: 12px;
+	}
+	.menu-item .icon{
+		font-size: 18px;
+	}
+	.blockbob{
+		width: 540px;
+		display: flex;
+		flex-direction: column;
+		gap: 50px;
+	}
+	.bob2{
+		width: 540px;
+	}
+	.image{
+		width: 520px;
+		height: 553px;
+		background-position: 40% 50%;
+	}
+	.image1{
+		width: 520px;
+		height: 553px;
+		background-position: 40% 50%;
+	}
+	.block4{
+		background-position: 71.36% 50%;
+	}
+	.box4 h1{
+		margin: 21px 180px 0 50px;
+		font-size: 50px;
+	}
+	.image3{
+		width: 520px;
+		height: 553px;
+		background-position: 40% 50%;
+	}
+	.image4{
+		width: 520px;
+		height: 553px;
+		background-position: 40% 50%;
+	}
+}
+
+
+
+@media(max-width: 567px){
+	.menu{
+		display: none;
+	}
+	.bob1{
+		width: 280px;
+	}
+	.bob1 h2{
+		font-size: 18px;
+	}
+	.bob1 h3{
+		font-size: 18px;
+	}
+	.bob1 p{
+		font-size: 16px;
+	}
+	.bottom-menu{
+		padding: 10px 0;
+		display: flex;
+	}
+	.box2 h2{
+		font-size: 25px;
+	}
+	.box2 p{
+		margin: 20px 0;
+		font-size: 16px;
+	}
+	.blockbob{
+		width: 280px;
+		display: flex;
+		flex-direction: column;
+		gap: 50px;
+	}
+	.bob2{
+		width: 280px;
+	}
+	.image{
+		width: 260px;
+		height: 320px;
+		background-position: 40% 50%;
+	}
+	.image1{
+		width: 260px;
+		height: 320px;
+		background-position: 40% 50%;
+	}
+	.bob3 h6{
+		font-size: 16px;
+	}
+	.bob3{
+		width: 280px;
+	}
+	.block4{
+		background-position: 71.36% 50%;
+	}
+	.box4 h1{
+		margin: 21px 80px 0 50px;
+		font-size: 50px;
+	}
+	.image3{
+		width: 260px;
+		height: 320px;
+		background-position: 40% 50%;
+	}
+	.image4{
+		width: 260px;
+		height: 320px;
+		background-position: 40% 50%;
+	}
+}
+
+
+
+@media(max-width: 400px){
+	.block4{
+		background-position: 70% 20%;
+	}
+	.box4 h1{
+		margin: 21px 0 0 20px;
+		font-size: 30px;
+		text-align: center;
+	}
+	.box4 button{
+		padding: 16px 40px 17px;
+		margin: 30px auto 50px 80px;
+	}
+	.circule{
+		margin: 100px 855px 20px 45px;
+	}
+	.box4 h5{
+		margin: auto;
+		text-align: center;
+	}
+}

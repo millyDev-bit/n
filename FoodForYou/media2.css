@@ -1,0 +1,325 @@
+@media(max-width: 1199px){
+	.bob{
+		width: 900px;
+		margin: auto;
+		padding: 40px 20px;
+		display: flex;
+	}
+	.bob1{
+		width: 450px;
+		height: 421px;
+		margin: auto;
+	}
+	.bob1 h2{
+		margin: 20px auto 0 0;
+	}
+	.image{
+		width: 440px;
+		height: 521px;
+		margin-top: 70px;
+	}
+	.image img{
+		width: 440px;
+		height: 421px;
+		border-radius: 50px;
+	}
+	.bob2{
+		width: 1000px;
+		height: fit-content;
+		padding: 30px 90px;
+	}
+	.bob2 h2{
+		margin: 20px 46px;
+	}
+	.bob2 p{
+		margin: 20px 60px 0;
+	}
+	.bob2 button{
+		margin: 30px 320px 0;
+	}
+	.bob4{
+		width: 940px;
+	}
+	.boxtext{
+		width: 300px;
+		height: 307px;
+	}
+	.boxtext h6{
+		margin: 150px auto;
+	}
+	.boxtext2{
+		width: 300px;
+		height: 307px;
+	}
+	.boxtext2 h6{
+		margin: 150px auto;
+	}
+	.boxtext3{
+		width: 300px;
+		height: 307px;
+	}
+	.boxtext3 h6{
+		margin: 150px auto;
+	}
+	.bob5{
+		width: 800px;
+	}
+}
+
+
+
+
+@media(max-width: 990px){
+	.bob{
+		width: 600px;
+		padding: 40px 20px 0 20px;
+		flex-direction: column;
+	}
+	.bob1{
+		width: 450px;
+		height: 421px;
+		margin: auto;
+	}
+	.image{
+		width: 440px;
+		height: 521px;
+		margin: 50px auto 0;
+	}
+	.image img{
+		width: 440px;
+		height: 421px;
+	}
+	.bob2{
+		width: 740px;
+		height: fit-content;
+		padding: 30px 20px;
+	}
+	.bob2 h2{
+		margin: 20px 26px;
+	}
+	.bob2 p{
+		margin: 20px 10px 0;
+	}
+	.bob2 button{
+		margin: 30px 260px 0;
+	}
+	.bob4{
+		width: 720px;
+		grid-template-columns: repeat(2, calc(50% - 9.99997px));
+	}
+	.boxtext{
+		width: 350px;
+		height: 357px;
+	}
+	.boxtext h6{
+		margin: 150px auto;
+	}
+	.boxtext2{
+		width: 350px;
+		height: 357px;
+	}
+	.boxtext2 h6{
+		margin: 150px auto;
+	}
+	.boxtext3{
+		width: 350px;
+		height: 357px;
+	}
+	.boxtext3 h6{
+		margin: 150px auto;
+	}
+	.bob5{
+		width: 650px;
+	}
+	.bob5 h2{
+		font-size: 40px;
+	}
+}
+
+
+
+@media(max-width: 768px){
+	.bob{
+		width: 500px;
+	}
+	.bob1{
+		width: 450px;
+		height: 421px;
+		margin: auto;
+	}
+	.bob1 button{
+		margin: 31px 0 0;
+	}
+	.image{
+		width: 440px;
+		height: 521px;
+		margin: 50px 60px 0;
+	}
+	.image img{
+		width: 340px;
+		height: 421px;
+	}
+	.bob2{
+		width: 600px;
+		height: fit-content;
+		padding: 20px 15px;
+	}
+	.bob2 h2{
+		margin: 20px 0;
+	}
+	.bob2 p{
+		margin: 20px 0 0;
+	}
+	.bob2 button{
+		margin: 30px 180px 0;
+	}
+	.bob4{
+		width: 540px;
+		display: flex;
+		flex-direction: column;
+	}
+	.boxtext{
+		width: 540px;
+		height: 232px;
+	}
+	.boxtext h6{
+		margin: 110px auto;
+	}
+	.boxtext2{
+		width: 540px;
+		height: 232px;
+	}
+	.boxtext2 h6{
+		margin: 110px auto;
+	}
+	.boxtext3{
+		width: 540px;
+		height: 232px;
+	}
+	.boxtext3 h6{
+		margin: 110px auto;
+	}
+	.bob5{
+		width: 550px;
+	}
+	.bob5 h2{
+		font-size: 35px;
+	}
+	.bob5 input{
+		width: 425px;
+		height: 48px;
+		margin: 30px auto 10px;
+	}
+	.bob5 button{
+		padding: 10px 180px 13px;
+		margin: 0 auto 40px;
+	}
+	.menu-item{
+		font-size: 12px;
+	}
+	.menu-item .icon{
+		font-size: 18px;
+	}
+}
+
+
+
+@media(max-width: 567px){
+	.menu{
+		display: none;
+	}
+	.bob{
+		width: 300px;
+		padding: 40px 20px 0 20px;
+	}
+	.bob1{
+		width: 250px;
+		height: fit-content;
+		margin: auto;
+	}
+	.bob1 h6{
+		font-size: 16px;
+		text-align: center;
+	}
+	.bob1 h2{
+		font-size: 28px;
+		text-align: center;
+	}
+	.bob1 p{
+		font-size: 16px;
+		text-align: center;
+	}
+	.bob1 button{
+		padding: 16px 32px 16px 33px;
+		margin: 31px 40px 0;
+	}
+	.image{
+		width: 240px;
+		height: 221px;
+		margin: 20px 10px 20px;
+	}
+	.image img{
+		width: 240px;
+		height: 221px;
+	}
+	.bob2{
+		width: 300px;
+		height: fit-content;
+		padding: 20px 10px;
+	}
+	.bob2 h2{
+		font-size: 20px;
+		margin: 20px 0;
+	}
+	.bob2 p{
+		margin: 20px 0 0;
+	}
+	.bob2 button{
+		margin: 30px 50px 0;
+	}
+	.bob4{
+		width: 240px;
+		display: flex;
+		flex-direction: column;
+	}
+	.boxtext{
+		width: 240px;
+		height: 232px;
+	}
+	.boxtext h6{
+		margin: 110px auto;
+	}
+	.boxtext2{
+		width: 240px;
+		height: 232px;
+	}
+	.boxtext2 h6{
+		margin: 110px auto;
+	}
+	.boxtext3{
+		width: 240px;
+		height: 232px;
+	}
+	.boxtext3 h6{
+		margin: 110px auto;
+	}
+	.bob5{
+		width: 280px;
+	}
+	.bob5 input{
+		width: 225px;
+		height: 48px;
+		margin: 30px auto 10px;
+	}
+	.bob5 button{
+		padding: 10px 80px 13px;
+		margin: 0 auto 40px;
+	}
+	.bob5 h2{
+		font-size: 18px;
+	}
+	.bottom-menu{
+		padding: 10px 0;
+		display: flex;
+	}
+}

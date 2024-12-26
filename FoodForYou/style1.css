@@ -1,0 +1,463 @@
+.block{
+	border: 1px solid;
+	height: fit-content;
+}
+.box0{
+	border: 1px solid;
+	height: fit-content;
+}
+.box{
+	border: 1px solid;
+	height: fit-content;
+}
+.bob0{
+	border: 1px solid;
+	width: 50%;
+	height: fit-content;
+	margin: auto;
+}
+.menu{
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	padding: 10px 0;
+}
+.menu a{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "Montserrat", serif;
+	color: black;
+	font-size: 18px;
+	padding: 10px 20px;
+	transition: background-color 0.3s;
+}
+.menu a:hover{
+	color: #f1ae0e;
+}
+
+
+
+.block1{
+	height: auto;
+	min-height: 686px;
+/*	margin-top: 50px;*/
+	margin-bottom: 60px;
+	background: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/vegetables-set-left-black-slate.jpg);
+	background-size: cover;
+	background-position: 100% 50%;
+}
+.box01{
+	height: fit-content;
+}
+.box1{
+	height: fit-content;
+}
+.box1 h5{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.2;
+	text-transform: uppercase;
+	color: white;
+	margin-bottom: 0;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.box1 h1{
+	margin: 21px 617px 0 50px;
+	font-size: 60px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	color: white;
+}
+.box1 button{
+	padding: 16px 46px 17px;
+	margin: 30px auto 50px 50px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+	background: #f1ae0e;
+	border-radius: 50px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border: none;
+}
+.box1 button:hover{
+	background: whitesmoke;
+	color: black;
+}
+.circule{
+	width: 225px;
+	height: 225px;
+	margin: 100px 855px 0 50px;
+	background: #99e54d;
+	text-align: left;
+	border-radius: 50%;
+	color: black;
+}
+.textCircule{
+	padding: 30px 22px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.textCircule h2{
+	font-size: 60px;
+	margin: 20px 0 auto;
+	line-height: 1.1;
+	font-weight: 700;
+	text-align: center;
+	font-family: "Montserrat", serif;
+}
+.textCircule h6{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	text-transform: uppercase;
+	line-height: 1.2;
+	text-align: center;
+	margin: 20px 20px auto;
+}
+
+
+
+.block2{
+	height: fit-content;
+}
+.box02{
+	height: fit-conten;
+}
+.box2{
+	height: fit-content;
+}
+.box2 h2{
+	margin: 60px auto 0;
+	font-size: 48px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	text-align: center;
+}
+.box2 p{
+	font-size: 18px;
+	margin: 30px auto 60px;
+	text-align: center;
+}
+.bob{
+	width: 277px;
+	height: 454px;
+	padding: 20px 0;
+	margin: auto;
+	text-align: center;
+}
+.bob img{
+	width: 257px;
+	height: 295px;
+	border-radius: 50px;
+	object-fit: cover;
+}
+.bob h6{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.2;
+	font-family: "Montserrat", serif;
+	margin: 30px auto 0;
+}
+.bob button{
+	padding: 16px 43px 16px 42px;
+	margin: 30px auto 0;
+	background: #f1ae0e;
+	color: white;
+	border-radius: 50px;
+	text-transform: uppercase;
+	border: none;
+}
+.bob button:hover{
+	background: darkorange;
+	color: whitesmoke;
+}
+
+
+.block3{
+	height: fit-content;
+	background: #99e54d;
+}
+.box03{
+	height: fit-content;
+}
+.box3{
+	height: fit-content;
+}
+.bob1{
+	border: 1px solid white;
+	background: white;
+	width: 1140px;
+	margin: 75px auto;
+	height: fit-content;
+	text-align: center;
+	border-radius: 50px;
+}
+.bob1 h2{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 1.1;
+	font-family: "Montserrat", serif;
+	margin-top: 50px;
+}
+.bob1 p{
+	margin: 20px auto 0;
+	font-size: 18px;
+	font-family: "Montserrat", serif;
+}
+.bob1 h3{
+	font-size: 36px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin: 20px auto 50px;
+}
+.icon1{
+	color: #f1ae0e;
+}
+
+
+
+.block4{
+	height: auto;
+	min-height: 686px;
+	margin-top: 50px;
+	margin-bottom: 60px;
+	background: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/fresh-salad-with-turkey-eggs-vegetables.jpg);
+	background-size: cover;
+	background-position: 100% 50%;
+}
+.box04{
+	height: fit-content;
+}
+.box4{
+	height: fit-content;
+}
+.box4 h5{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.2;
+	text-transform: uppercase;
+	color: white;
+	margin-bottom: 0;
+	margin-top: 360px;
+	margin-left: 50px;
+}
+.box4 h1{
+	margin: 21px 637px 0 50px;
+	font-size: 60px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	color: white;
+}
+.box4 button{
+	padding: 16px 46px 17px;
+	margin: 30px auto 20px 50px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+	background: #f1ae0e;
+	border-radius: 50px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border: none;
+}
+.box4 button:hover{
+	background: whitesmoke;
+	color: black;
+}
+
+
+
+
+.block5{
+	height: fit-content;
+	background: #f9f6ee;
+}
+.box05{
+	height: fit-content;
+}
+.box5{
+	height: fit-content;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.box5 h2{
+	margin: 60px auto 0;
+	font-size: 48px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	text-align: center;
+}
+
+
+
+.block6{
+	height: auto;
+	min-height: 686px;
+	margin-top: 50px;
+	margin-bottom: 60px;
+	background: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/juicy-steak-medium-rare-beef-with-spices-grilled-vegetables.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.box06{
+	height: fit-content;
+}
+.box6{
+	height: fit-content;
+}
+.box6 h5{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.2;
+	text-transform: uppercase;
+	color: white;
+	margin-bottom: 0;
+	margin-top: 360px;
+	margin-left: 50px;
+}
+.box6 h1{
+	margin: 21px 637px 0 50px;
+	font-size: 60px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	color: white;
+}
+.box6 button{
+	padding: 16px 46px 17px;
+	margin: 30px auto 20px 50px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+	background: #f1ae0e;
+	border-radius: 50px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border: none;
+}
+.box6 button:hover{
+	background: whitesmoke;
+	color: black;
+}
+
+
+.block7{
+	height: fit-content;
+	background: #f1ae0e;
+}
+.box07{
+	height: fit-content;
+}
+.box7{
+	height: fit-content;
+}
+.bob1 input{
+	width: 425px;
+	height: 48px;
+	border-radius: 50px;
+	border: 2px solid;
+	margin: 30px auto 60px;
+}
+.bob1 button{
+	padding: 10px 30px 13px;
+	background: #99e54d;
+	text-transform: uppercase;
+	border-radius: 50px;
+	font-family: "Montserrat", serif;
+	border: none;
+}
+
+
+.block8{
+	height: auto;
+	min-height: 686px;
+	margin-top: 50px;
+	margin-bottom: 60px;
+	background: url(https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.box08{
+	height: fit-content;
+}
+.box8{
+	height: fit-content;
+}
+.box8 h5{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.2;
+	text-transform: uppercase;
+	color: white;
+	margin-bottom: 0;
+	margin-top: 360px;
+	margin-left: 50px;
+}
+.box8 h1{
+	margin: 21px 637px 0 50px;
+	font-size: 60px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	color: white;
+}
+.box8 button{
+	padding: 16px 46px 17px;
+	margin: 30px auto 20px 50px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+	background: #f1ae0e;
+	border-radius: 50px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border: none;
+}
+.box8 button:hover{
+	background: whitesmoke;
+	color: black;
+}
+
+
+.bottom-menu {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  display: none;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.menu-item {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+}
+
+.menu-item .icon {
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+
+.menu-item:hover {
+  color: #f1ae0e;
+}

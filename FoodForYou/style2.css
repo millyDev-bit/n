@@ -1,0 +1,386 @@
+.block{
+	border: 1px solid;
+	height: fit-content;
+}
+.box0{
+	border: 1px solid;
+	height: fit-content;
+}
+.box{
+	border: 1px solid;
+	height: fit-content;
+}
+.bob0{
+	border: 1px solid;
+	width: 50%;
+	height: fit-content;
+	margin: auto;
+}
+.menu{
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	padding: 10px 0;
+}
+.menu a{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "Montserrat", serif;
+	color: black;
+	font-size: 18px;
+	padding: 10px 20px;
+	transition: background-color 0.3s;
+}
+.menu a:hover{
+	color: #f1ae0e;
+}
+
+
+
+.block1{
+	height: fit-content;
+	background: #f9f6ee;
+	margin-top: 60px;
+	padding-top: 70px;
+	padding-bottom: 60px;
+}
+.box01{
+	height: fit-content;
+}
+.box1{
+	height: fit-content;
+	margin: auto;
+}
+.bob{
+	width: 1100px;
+	height: fit-content;
+	margin: auto;
+	padding: 40px 20px;
+	display: flex;
+	background: white;
+	border-radius: 50px;
+}
+.bob1{
+	width: 540px;
+	height: 421px;
+	margin-top: 50px;
+}
+.bob1 h6{
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.2;
+	font-family: "Montserrat", serif;
+	text-transform: uppercase;
+}
+.bob1 h2{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 1.1;
+	font-family: "Montserrat", serif;
+	margin: 20px auto 0 0;
+}
+.bob1 p{
+	font-size: 18px;
+	font-family: "Montserrat", serif;
+	margin: 20px 0 0;
+}
+.bob1 button{
+	padding: 16px 34px 16px 33px;
+	margin: 31px 0 0;
+	border-radius: 50px;
+	background: #f1ae0e;
+	color: white;
+	text-transform: uppercase;
+	font-family: "Montserrat", serif;
+	border: none;
+}
+.image{
+	width: 540px;
+	height: 521px;
+}
+.image img{
+	width: 540px;
+	height: 521px;
+	object-fit: cover;
+	border-radius: 50px;
+}
+
+
+
+
+.block2{
+	height: fit-content;
+	background: #f1ae0e;
+}
+.box02{
+	height: fit-content;
+}
+.box2{
+	height: fit-content;
+}
+.bob2{
+	width: 1140px;
+	height: 411px;
+	border-radius: 50px;
+	margin: 75px auto;
+	margin-top: 75px;
+	margin-bottom: 75px;
+	padding: 30px 140px;
+	background: white;
+}
+.bob2 h2{
+	font-size: 48px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	line-height: 1.1;
+	margin: 20px 46px;
+	text-align: center;
+}
+.bob2 p{
+	margin: 20px 60px 0;
+	font-family: "Montserrat", serif;
+	font-size: 18px;
+	text-align: center;
+}
+.bob2 button{
+	padding: 15px 43px 15px 42px;
+	margin: 30px 340px 0;
+	background: #99e54d;
+	text-transform: uppercase;
+	border-radius: 50px;
+	border: none;
+}
+
+
+
+
+.block3{
+	height: fit-content;
+	background: #f9f6ee;
+	margin-top: 60px;
+	padding-top: 70px;
+	padding-bottom: 60px;
+}
+.box03{
+	height: fit-content;
+}
+.box3{
+	height: fit-content;
+	margin: auto;
+}
+.bob{
+	width: 1100px;
+	height: fit-content;
+	margin: auto;
+	padding: 40px 20px;
+	display: flex;
+	background: white;
+	gap: 20px;
+	border-radius: 50px;
+}
+.bob1{
+	width: 540px;
+	height: 421px;
+	margin-top: 50px;
+}
+.bob1 h6{
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.2;
+	font-family: "Montserrat", serif;
+	text-transform: uppercase;
+}
+.bob1 h2{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 1.1;
+	font-family: "Montserrat", serif;
+	margin: 20px auto 0 0;
+}
+.bob1 p{
+	font-size: 18px;
+	font-family: "Montserrat", serif;
+	margin: 20px 0 0;
+}
+.bob1 button{
+	padding: 16px 34px 16px 33px;
+	margin: 31px 0 0;
+	border-radius: 50px;
+	background: #f1ae0e;
+	color: white;
+	text-transform: uppercase;
+	font-family: "Montserrat", serif;
+	border: none;
+}
+.image{
+	width: 540px;
+	height: 521px;
+}
+.image img{
+	width: 540px;
+	height: 521px;
+	object-fit: cover;
+	border-radius: 50px;
+}
+
+
+
+.block4{
+	height: fit-content;
+	background: #f9f6ee;
+}
+.box04{
+	height: fit-content;
+}
+.box4{
+	height: fit-content;
+}
+.bob4{
+	width: 1140px;
+	height: fit-content;
+	margin: 47px auto;
+	display: grid;
+	grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+	grid-gap: 20px;
+}
+.boxtext{
+	width: 366px;
+	height: 375px;
+	border-radius: 50px;
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("https://assets.nicepagecdn.com/11a8ddce/4267640/images/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg");
+	background-position: 50% 50%;
+	background-size: cover;
+}
+.boxtext h6{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	color: white;
+	line-height: 1.2;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 170px auto;
+}
+.boxtext2{
+	width: 366px;
+	height: 375px;
+	border-radius: 50px;
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("https://assets.nicepagecdn.com/11a8ddce/4267640/images/pexels-photo-3850972.jpeg");
+	background-position: 50% 50%;
+	background-size: cover;
+}
+.boxtext2 h6{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	color: white;
+	line-height: 1.2;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 170px auto;
+}
+.boxtext3{
+	width: 366px;
+	height: 375px;
+	border-radius: 50px;
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("https://assets.nicepagecdn.com/11a8ddce/4267640/images/italian-spaghetti-with-tomato-sauce-pan.jpg");
+	background-position: 50% 50%;
+	background-size: cover;
+}
+.boxtext3 h6{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "Montserrat", serif;
+	color: white;
+	line-height: 1.2;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 170px auto;
+}
+
+
+
+
+
+.block5{
+	height: fit-content;
+	background: #99e54d;
+}
+.box05{
+	height: fit-content;
+}
+.box5{
+	height: fit-content;
+}
+.bob5{
+	border: 1px solid white;
+	background: white;
+	width: 1140px;
+	margin: 75px auto;
+	height: fit-content;
+	text-align: center;
+	border-radius: 50px;
+}
+.bob5 h2{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 1.1;
+	font-family: "Montserrat", serif;
+	margin-top: 50px;
+}
+.bob5 p{
+	margin: 20px auto 0;
+	font-size: 18px;
+	font-family: "Montserrat", serif;
+}
+.bob5 input{
+	width: 425px;
+	height: 48px;
+	border-radius: 50px;
+	border: 2px solid;
+	margin: 30px auto 60px;
+}
+.bob5 button{
+	padding: 10px 30px 13px;
+	background: #99e54d;
+	text-transform: uppercase;
+	border-radius: 50px;
+	font-family: "Montserrat", serif;
+	border: none;
+}
+
+
+
+
+
+
+.bottom-menu {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  display: none;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.menu-item {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+}
+
+.menu-item .icon {
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+
+.menu-item:hover {
+  color: #f1ae0e;
+}
